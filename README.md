@@ -3,7 +3,9 @@
 ## Description
 ALL-IN_ONE2.0 is a versatile project that consolidates various Categories into a single sites. It aims to provide a seamless experience for users who need multiple tools and services under one roof.
 
-https://github.com/pranith66h/ALL-IN_ONE2.0.git
+## Live Link
+https://all-in-one2-0.netlify.app/
+
 ## Features
 - User-friendly interface
 - Multiple functionalities available
